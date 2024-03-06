@@ -1,0 +1,8 @@
+@import "custom";
+
+.container{
+    background: linear-gradient(152.78deg, #1C274A 0%, #040711 100%);
+    & > *{
+        color: #fff;
+    }
+}
